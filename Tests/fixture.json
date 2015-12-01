@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "artistId": "5468295",
+      "artistImage": "http://is5.mzstatic.com/image/thumb/Music/v4/00/d8/eb/00d8eb0c-df8b-a786-4b88-abd5df2c92eb/source/200x200sr.png",
+      "artistName": "Daft Punk",
+      "artistUrl": "https://itunes.apple.com/de/artist/daft-punk/id5468295",
+      "artwork": {
+        "bgColor": "b14416",
+        "height": 1500,
+        "supportsLayeredImage": false,
+        "textColor1": "fcf2f0",
+        "textColor2": "fdd8d2",
+        "textColor3": "edcfc5",
+        "textColor4": "eebaac",
+        "url": "http://is5.mzstatic.com/image/thumb/Music/v4/d8/86/b0/d886b031-8a86-548b-4c98-f794f7f10a02/source/{w}x{h}bb.{f}",
+        "width": 1500
+      },
+      "artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music/v4/d8/86/b0/d886b031-8a86-548b-4c98-f794f7f10a02/source/200x200bb.png",
+      "collectionCensoredName": "Get Lucky (Radio Edit) [feat. Pharrell Williams] - Single",
+      "collectionExplicitness": "",
+      "collectionId": "636967993",
+      "collectionName": "Get Lucky (Radio Edit) [feat. Pharrell Williams] - Single",
+      "composer": {
+        "name": "Pharrell Williams, Thomas Bangalter, Guy-Manuel de Homem-Christo & Nile Rodgers",
+        "url": "https://itunes.apple.com/de/composer/id722791"
+      },
+      "contentAdvisoryRating": "",
+      "contentRatingsBySystem": {},
+      "copyright": "℗ 2013 Daft Life Limited under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+      "description": "",
+      "genreNames": [
+        "Pop",
+        "Musik"
+      ],
+      "id": "636968288",
+      "kind": "song",
+      "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams]",
+      "primaryGenreName": "Pop",
+      "releaseDate": "2013-04-19T00:00:00Z",
+      "trackCensoredName": "Get Lucky (Radio Edit) [feat. Pharrell Williams]",
+      "trackExplicitness": "",
+      "trackViewUrl": "https://itunes.apple.com/de/album/get-lucky-radio-edit-feat./id636967993?i=636968288",
+      "url": "https://itunes.apple.com/de/album/get-lucky-radio-edit-feat./id636967993?i=636968288",
+      "version": null
+    }
+  ],
+  "resultCount": 1
+}

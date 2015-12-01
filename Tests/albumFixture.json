@@ -1,0 +1,78 @@
+{
+  "results": [
+    {
+      "artistId": "5468295",
+      "artistImage": "http://is5.mzstatic.com/image/thumb/Music/v4/00/d8/eb/00d8eb0c-df8b-a786-4b88-abd5df2c92eb/source/200x200sr.png",
+      "artistName": "Daft Punk",
+      "artistUrl": "https://itunes.apple.com/de/artist/daft-punk/id5468295",
+      "artwork": {
+        "bgColor": "090d0e",
+        "height": 1500,
+        "supportsLayeredImage": false,
+        "textColor1": "c6d9f2",
+        "textColor2": "9daed1",
+        "textColor3": "a0b0c5",
+        "textColor4": "808daa",
+        "url": "http://is5.mzstatic.com/image/thumb/Music2/v4/0c/8c/4a/0c8c4a84-465f-ee54-d999-eb0743d224ef/source/{w}x{h}bb.{f}",
+        "width": 1500
+      },
+      "artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music2/v4/0c/8c/4a/0c8c4a84-465f-ee54-d999-eb0743d224ef/source/200x200bb.png",
+      "collectionCensoredName": "Random Access Memories",
+      "collectionExplicitness": "",
+      "contentAdvisoryRating": "",
+      "contentRatingsBySystem": {},
+      "copyright": "℗ 2013 Daft Life Limited under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+      "description": "",
+      "genreNames": [
+        "Pop",
+        "Musik",
+        "Rock",
+        "Electronic",
+        "Dance",
+        "Electronic",
+        "House"
+      ],
+      "id": "617154241",
+      "isComplete": true,
+      "isMasteredForItunes": true,
+      "itunesNotes": {
+        "short": null,
+        "standard": "Begleitet von zahlreichen Gerüchten melden sich die geheimnisumwitterten Elektro-Pioniere mit den charakteristischen Robotermasken zurück und präsentieren ihr viertes Studioalbum „Random Access Memories“. Daft Punk, das für seine futuristischen Disco-Funk-Experimente und eindrucksvollen Bühnenshows gefeierte extravagante französische Duo ist mit dem Nachfolger des unglaublich erfolgreichen „Human After All“ (2005) und des innovativen Soundtracks zu „Tron: Legacy“ (2010) auf dem besten Weg, ins Rampenlicht zurückzukehren. Sieh dir an, was es Neues von Daft Punk gibt und sei bei den Ersten, die wissen, was hinter den Gerüchten steckt."
+      },
+      "kind": "album",
+      "mediaArchiveAdamId": "643475112",
+      "name": "Random Access Memories",
+      "primaryGenreName": "Pop",
+      "releaseDate": "2013-05-21T00:00:00Z",
+      "trackCensoredName": "Random Access Memories",
+      "trackCount": 13,
+      "trackExplicitness": "",
+      "trackViewUrl": "https://itunes.apple.com/de/album/random-access-memories/id617154241",
+      "uber": {
+        "backgroundColor": "000000",
+        "description": null,
+        "headerTextColor": "ffffff",
+        "masterArt": {
+          "bgColor": "000000",
+          "height": 600,
+          "supportsLayeredImage": false,
+          "textColor1": "ffffff",
+          "textColor2": "dae8fc",
+          "textColor3": "cbcbcb",
+          "textColor4": "afb9c9",
+          "url": "http://is1.mzstatic.com/image/thumb/Features/v4/a4/f8/6f/a4f86fd2-6f33-db33-8f78-fbe9e7c6827c/source/{w}x{h}{c}.{f}",
+          "width": 3200
+        },
+        "name": null,
+        "primaryTextColor": "ffffff",
+        "primaryTextColorOnBlack": "rgba(241,241,241,1.0)",
+        "titleTextColor": "ffffff",
+        "titleTextColorOnBlack": "rgba(241,241,241,1.0)"
+      },
+      "uploadedContentIds": [],
+      "url": "https://itunes.apple.com/de/album/random-access-memories/id617154241",
+      "version": null
+    }
+  ],
+  "resultCount": 1
+}
