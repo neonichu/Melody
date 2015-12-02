@@ -25,42 +25,46 @@ describe("melody") {
 	$0.it("can fetch live data for albums") {
 		let expectation = Expectation(timeoutInterval: 15)
 
-		Melody().searchAlbums("nirvana") { (albums, error) in
-			do {
-				let album = albums?.first
-				try expect(album != nil).to.beTrue()
+		var albums: [Album]?
+		var error: NSError?
 
-				if let album = album {
-					try expect(album.name) == "Smells Like Teen Spirit"
-				}
-			} catch let error {
-				print(error)
-			}
+		Melody().searchAlbums("nirvana") {
+			albums = $0
+			error = $1
 
 			expectation.fulfil()
 		}
 
 		try expectation.wait()
+
+		let album = albums?.first
+		try expect(album != nil).to.beTrue()
+
+		if let album = album {
+			try expect(album.name) == "Smells Like Teen Spirit"
+		}
 	}
 
 	$0.it("can fetch live data for tracks") {
 		let expectation = Expectation(timeoutInterval: 15)
-		
-		Melody().searchTracks("lucky") { (tracks, error) in
-			do {
-				try expect(tracks != nil).to.beTrue()
-				try expect(error).to.beNil()
 
-				if let track = tracks?.first! {
-					try expect(track.name) == "Get Lucky (Radio Edit) [feat. Pharrell Williams]"
-				}
-			} catch let error {
-				print(error)
-			}
+		var error: NSError?
+		var tracks: [Track]?
+		
+		Melody().searchTracks("lucky") {
+			tracks = $0
+			error = $1
 
 			expectation.fulfil()
 		}
 
 		try expectation.wait()
+
+		try expect(tracks != nil).to.beTrue()
+		try expect(error).to.beNil()
+
+		if let track = tracks?.first! {
+			try expect(track.name) == "Get Lucky (Radio Edit) [feat. Pharrell Williams]"
+		}
 	}
 }
