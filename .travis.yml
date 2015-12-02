@@ -1,0 +1,5 @@
+language: objective-c
+osx_image: xcode7.1
+before_install:
+- brew install --HEAD kylef/formulae/conche
+script: make test
