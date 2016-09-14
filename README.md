@@ -1,5 +1,7 @@
 # Melody
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 ![](http://i.giphy.com/U77vQrdZYt8EU.gif)
 
 A library for retrieving iTunes Music Store information.
