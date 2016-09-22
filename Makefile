@@ -7,5 +7,5 @@ doc:
 	@cat doc/undocumented.txt
 
 test:
-	pod lib lint Melody.podspec.json --allow-warnings
+	pod lib lint Melody.podspec.json --allow-warnings --verbose
 	conche test
